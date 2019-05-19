@@ -36,9 +36,9 @@ HEADERS += \
 FORMS += \
         mainwindow.ui
 
-INCLUDEPATH += /home/zouwm/work/ffmpeg_lib/include/
+INCLUDEPATH += /home/zouwm/codebank/libs/ffmpeg_lib/include/
 
-LIBS += -L/home/zouwm/work/ffmpeg_lib/lib/ \
+LIBS += -L/home/zouwm/codebank/libs/ffmpeg_lib/lib/ \
         -lavcodec \
         -lavdevice \
         -lavfilter \

@@ -18,6 +18,7 @@ extern "C"
     #include <libavutil/samplefmt.h>
     #include <libavformat/avformat.h>
     #include <libswscale/swscale.h>
+	#include <libavutil/time.h>
 }
 
 
